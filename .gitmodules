@@ -1,0 +1,3 @@
+[submodule "slothgen"]
+	path = slothgen
+	url = https://aromanenco@bitbucket.org/aromanenco/staticview.git
