@@ -115,6 +115,11 @@ h2 {
     margin-left: 200px;   
 }
 
+.page .content li {
+    width: 800px;
+    margin-left: 200px;   
+}
+
 .page .content pre {
     margin-left: 200px;   
     margin-top: 20px;
